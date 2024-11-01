@@ -1,4 +1,4 @@
-# ActiveDirectory
+# Active Directory
 Simple Active Directory Lab Using Microsoft Azure
 
 <p align="center">
